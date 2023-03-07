@@ -1,12 +1,14 @@
 0x07. C - Even more pointers, arrays and strings
 
+#TASKS.
+
 0. memset
 
 Write a function that fills memory with a constant byte.
 
 1. memcpy
 
-Write a function that copies memory area.
+Write a function that copies memory area
 
 2. strchr
 
